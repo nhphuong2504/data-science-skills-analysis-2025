@@ -1,3 +1,6 @@
+
+![top_20_skills_by_category](https://github.com/user-attachments/assets/221280ac-a713-43cb-ad7f-3fbfd2339ee6)
+
 # Data Science Job Market Skills Analysis
 
 Analyze data science job postings to extract and analyze in-demand skills from job descriptions.
